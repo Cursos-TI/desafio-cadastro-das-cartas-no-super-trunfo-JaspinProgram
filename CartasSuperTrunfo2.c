@@ -41,5 +41,8 @@ int main()
     printf("PIB: %.2f\n", PIB);
     printf("Número de Pontos Turísticos: %d\n", Turismo);
 
+
+printf("Novo commit\n");
+
     return 0;
 }
